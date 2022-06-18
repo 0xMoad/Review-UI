@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <div id = "container">
+        <img id = "logo" src = "user.png" alt = "logo">
+        <h1>How were we?</h1>
+            <h2> Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!</h2>
+        <button id = "btn1" class = "btns"><b>1</b></button>
+        <button id = "btn2" class = "btns"><b>2</b></button>
+        <button id = "btn3" class = "btns"><b>3</b></button>
+        <button id = "btn4" class = "btns"><b>4</b></button>
+        <button id = "btn5" class = "btns"><b>5</b></button>
+        <br>
+
+        <button id = "submit">SUBMIT</button>
+   </div> 
+   <script src = "app.js"></script>
+</body>
+</html>
